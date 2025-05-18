@@ -3,7 +3,7 @@
 저는 Unity를 기반으로 다양한 프로젝트를 진행하고 있으며,  
 게임 개발과 툴 개발, Git 기반 협업에 관심이 많은 개발자입니다.
 
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Fork](https://img.shields.io/badge/Fork-303030?style=for-the-badge&logo=git&logoColor=white)
 
----
+
 
 ## ⚠️ 레포지토리 공개 관련 안내
 
